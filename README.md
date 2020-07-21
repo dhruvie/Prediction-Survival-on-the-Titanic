@@ -32,4 +32,6 @@ After Comparing the above two Algorithms, we can clearly see that the Random for
 
 # Improvement
 Of course there is still room for improvement, like doing a more extensive feature engineering, by comparing and plotting the features against each other and identifying and removing the noisy features.
+
 # Contributors
+https://github.com/dhruvie/Prediction-Survival-on-the-Titanic/graphs/contributors
